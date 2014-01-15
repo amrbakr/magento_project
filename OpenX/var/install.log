@@ -1,0 +1,22 @@
+Installation started 2013-07-04 20:59:11
+Attempting to connect to database openx_1 with user oxuser1
+Connected to database openx_1
+Database settings and permissions are OK
+creating upgrade_action audit table
+successfully created upgrade_action audit table
+creating database_action audit table
+successfully created database_action audit table
+schema definition from cache TRUE
+Installation created the core tables
+Installation updated the schema version to 613
+Installation updated the application version to 2.8.10
+Preparing to set timezone preference...
+Found timezone preference ID of 16
+Found the admin account's timezone association, updating preference...
+Updated the admin account timezone preference to: 'Africa/Cairo'
+Starting file-check for plugins...
+Finished file-check for plugins
+Starting file-check for plugins...
+Finished file-check for plugins
+Starting file-check for plugins...
+Finished file-check for plugins
